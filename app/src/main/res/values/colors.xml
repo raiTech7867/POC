@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="date_focused_color">#5D498E</color>
+    <color name="gray_color">#8B8B8B</color>
+    <color name="button_background">#5F42B0</color>
+    <color name="do_not_have_pan_color">#5D4A8A</color>
+</resources>
